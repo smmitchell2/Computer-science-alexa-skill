@@ -1,1 +1,1 @@
-Computer science alexa skill
+Computer science quiz alexa skill
