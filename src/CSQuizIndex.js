@@ -135,7 +135,7 @@ function onSessionEnded(sessionEndedRequest, session) {
 
 var ANSWER_COUNT = 4;
 var GAME_LENGTH = 5;
-var CARD_TITLE = "Trivia"; // Be sure to change this for your skill.
+var CARD_TITLE = "Computer Science questions"; // Be sure to change this for your skill.
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
