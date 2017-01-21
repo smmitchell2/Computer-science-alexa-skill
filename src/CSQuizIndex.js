@@ -11,9 +11,50 @@ var questions = [
         ]
     },
     {
-        "What is a max heap": [
-            "A tree like structure that stores the greatest value at the head"
+        "What is a max heap?": [
+            "A tree like structure that stores the greatest value at the head",
+            "A tree like structure that stores the greatest value at a leaf"
         ]
+    },
+    {
+      "What is the best time case complexity for mergesort?": [
+        "n log n",
+        "quadratic",
+        "linear",
+        "cubic"
+      ]
+    },
+    {
+      "What is the worst case complexity for classical mergesort?": [
+        "quadratic",
+        "n log n",
+        "linear",
+        "cubic"
+      ]
+    },
+    {
+      "If quicksort is implemented such that the pivot is chosen to be the first element in the array, the worst case behavior of the sort is?": [
+        "quadratic",
+        "linear",
+        "n log n",
+        "log n"
+      ]
+    },
+    {
+      "If quicksort is implemented such that the a random element is chosen to be the pivot, the worst case behavior of the sort is?": [
+        "n log n",
+        "log n",
+        "linear",
+        "quadratic"
+      ]
+    },
+    {
+      "What is the best case complexity for quicksort?": [
+        "n log n",
+        "log n",
+        "linear",
+        "quadratic"
+      ]
     }
   ];
 
